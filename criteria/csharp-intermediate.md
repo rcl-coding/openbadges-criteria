@@ -2,7 +2,7 @@
 title: CS-002 Programming with C-Sharp
 parent: Criteria
 has_children: false
-nav_order: 1
+nav_order: 2
 description: Programming with C-Sharp - Intermediate
 ---
 
