@@ -9,7 +9,7 @@ description: Programming with C-Sharp - Foundation.
 # Title: Programming with C-Sharp
 ## Level: Foundation
 ## Version: V 1.0
-## Number: CS-001
+## Code: CS-001
 
 ## Skills :
 

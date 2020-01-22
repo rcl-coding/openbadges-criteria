@@ -4,7 +4,7 @@
 
 ### View Available Criteria
 
-You can view the our [available criteria here](/openbadges-criteria/criteria/current-criteria.html).
+You can view the [available criteria here](/openbadges-criteria/criteria/current-criteria.html).
 
 ### Open Badges Specifications
 
@@ -16,7 +16,7 @@ To this end, we have adopted the [Open Badges V2.0 Specification](https://www.im
 
 The criteria for obtaining an open badge lists the knowledge , skills and requirements that a learner must demonstrate to be awarded the badge.
 
-### Structure of Criteria 
+### Structure for a Criteria 
 
 The criteria is an html file hosted at a publicly accessible endpoint.
 
@@ -38,7 +38,7 @@ Anyone with a coding skill can contribute to a creating a new criteria or recomm
 
 - You need a basic understanding of Git and GitHub.com.
 - Open an [issue](https://github.com/rcl-coding/openbadges-criteria/issues) describing what you want to do, such as changing an existing criteria or creating a new one. Wait for approval before you invest much time.
-- Fork the [rcl-coding/openbadges-criteria](https://github.com/rcl-coding/openbadges-criteria) repo and create a branch for your changes. Name the branch 'recommendations'.
+- Fork the [rcl-coding/openbadges-criteria](https://github.com/rcl-coding/openbadges-criteria) master repo and create a branch for your changes. Name the branch 'recommendations'.
 - Make changes to an existing criteria or create a new criteria following the instructions below
 - Submit a Pull Request (PR) to master with your changes.
 - Respond to PR feedback.
@@ -48,10 +48,10 @@ Anyone with a coding skill can contribute to a creating a new criteria or recomm
 - In your forked branch, open the criteria from the 'criteria' folder. Make your changes in Markdown.
 
 **Create a new criteria**
-- In your forked branch, open the new criteria folder.
-- Create a new Markdown file for the criteria (eg: javascript-foundation.md)
+- In your forked branch, open the criteria folder.
+- Create a new Markdown file for the new criteria (eg: csharp-foundation.md)
 - Create your criteria and ensure you comply with the structure for a criteria as explained above
-- Add metadata (title, parent, nav_order) to your markdown file to establish proper navigation
+- Add metadata (title, parent, nav_order) to your markdown file to establish proper navigation to your new criteria
 
 **Sample Criteria File**
 ```markdown
@@ -67,7 +67,7 @@ description: Programming with C-Sharp - Foundation
 # Title: Programming with C-Sharp
 ## Level: Foundation
 ## Version: V 1.0
-## Number: CS-001
+## Code: CS-001
 
 ## Skills :
 
