@@ -1,16 +1,16 @@
 # Introduction
 
-## The objective of the Coding Skills Foundation is to facilitate the recognition of achievement of coding skills achieved by persons outside the formal education and training system.
+## The objective of the Coding Skills Foundation is to facilitate the recognition of a person's achievement of coding skills outside the formal education and training system.
 
 ### View Available Criteria
 
-You can view the our available criteria here.
+You can view the our [available criteria here](/openbadges-criteria/criteria/current-criteria.html).
 
 ### Open Badges Specifications
 
 We hope to foster a truly open system where badge issuers, learners and employers create an environment of mutual trust for recognition of coding skills.
 
-To this end, we have adopted the [Open Badges V2.0 Specification](https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html) published by the [ IMS Global Learning Consortium](https://www.imsglobal.org/)  for the mutual recognition of coding skills.
+To this end, we have adopted the [Open Badges V2.0 Specification](https://www.imsglobal.org/sites/default/files/Badges/OBv2p0Final/index.html) published by the [ IMS Global Learning Consortium](https://www.imsglobal.org/).
 
 ### Criteria for OpenBadges
 
@@ -18,13 +18,13 @@ The criteria for obtaining an open badge lists the knowledge , skills and requir
 
 ### Structure of Criteria 
 
-The criteria is hosted as an html file hosted at a publicly accessible endpoint.
+The criteria is an html file hosted at a publicly accessible endpoint.
 
 The criteria must contain :
 - Title (required) - title of the criteria
 - Level (required) - the level of the criteria (foundation, intermediate, advanced)
-- Version (required) - the version number of the criteria (eg: v1.0)
-- Code (required) - a unique identification code for the qualification 
+- Version (required) - the version number of the criteria (eg: V 1.0)
+- Code (required) - a unique identification code for the criteria 
 - Skills (required) - the skills that a learner must demonstrate to achieve the badge
 - Knowledge (required) - the knowledge that a learner must apply to achieve the badge
 - Requirements (required) - A description of the task or activities that the learner must demonstrate
@@ -32,7 +32,7 @@ The criteria must contain :
 
 ### Contributing to Criteria
 
-Anyone with a coding skill can contribute to a creating a new criteria or recommending revisions to an existing criteria. The criteria project accepts contributions via GitHub pull requests. This document outlines the process to help get your contribution accepted.
+Anyone with a coding skill can contribute to a creating a new criteria or recommending revisions to an existing criteria. This project accepts contributions via GitHub Pull Requests (PRs). The following outlines the process to help get your contribution accepted.
 
 **Contributing**
 
@@ -48,6 +48,43 @@ Anyone with a coding skill can contribute to a creating a new criteria or recomm
 - In your forked branch, open the criteria from the 'criteria' folder. Make your changes in Markdown.
 
 **Create a new criteria**
-- In your forked branch, open the criteria folder.
+- In your forked branch, open the new criteria folder.
 - Create a new Markdown file for the criteria (eg: javascript-foundation.md)
 - Create your criteria and ensure you comply with the structure for a criteria as explained above
+- Add metadata (title, parent, nav_order) to your markdown file to establish proper navigation
+
+**Sample Criteria File**
+```markdown
+
+---
+title: CS-001 Programming with C-Sharp
+parent: Criteria
+has_children: false
+nav_order: 1
+description: Programming with C-Sharp - Foundation
+---
+
+# Title: Programming with C-Sharp
+## Level: Foundation
+## Version: V 1.0
+## Number: CS-001
+
+## Skills :
+
+#### To achieve this badge the learner must :
+
+- Write C# code using **types**
+- Write C# code using **statements**
+
+## Knowledge :
+
+#### To achieve this badge the learner must know and understand :
+- Types : string, int, long, bool, DateTime 
+- Statements : if-else, do-while, for loop, arrays, foreach loop
+
+## Requirements
+
+#### To achieve this badge the learner must create:
+- At least three (3) C# .NET Standard console applications demonstrating all the skill and knowledge requirements identified above
+
+```
