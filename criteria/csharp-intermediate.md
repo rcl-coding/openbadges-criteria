@@ -1,5 +1,5 @@
 ---
-title: CS-002 Programming with C-Sharp
+title: CS-002 C-Sharp - Intermediate
 parent: Criteria
 has_children: false
 nav_order: 2

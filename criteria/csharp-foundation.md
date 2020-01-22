@@ -1,5 +1,5 @@
 ---
-title: CS-001 Programming with C-Sharp
+title: CS-001 C-Sharp - Foundation
 parent: Criteria
 has_children: false
 nav_order: 1
