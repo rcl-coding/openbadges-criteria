@@ -9,7 +9,7 @@ description: Programming with C-Sharp - Advanced
 # Title: Programming with C-Sharp
 ## Level: Intermediate
 ## Version: V 1.0
-## Code: CS-002
+## Code: CS-003
 
 ## Skills :
 
@@ -34,8 +34,9 @@ description: Programming with C-Sharp - Advanced
 - public, private, protected, partial, sealed classes
 - Attributes
 - const, static, readonly properties/variables
+- Extensions
 - Code commenting 
-- Nuget Packages
+- Creating Nuget Packages
 
 ## Requirements
 

@@ -27,8 +27,10 @@ description: Programming with C-Sharp - Intermediate
 - Method Overrides, Method Overloads
 - Inheritance
 - Interfaces
+- Static Classes
+- Abstract Classes
 
 ## Requirements
 
 #### To achieve this badge the learner must create:
-- At least one (1) C# .NET Standard console application using object oriented programming that covers all the skills and knowledge identified above
+- At least one (2) C# .NET Standard console application using object oriented programming. Collectively, the projects should covers all the skills and knowledge identified above.
