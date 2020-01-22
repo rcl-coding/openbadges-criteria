@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
-description: "Criteria for awarding open badges in the Coding Skills Foundation."
----
 # Coding Skills Foundation Open Badges Criteria
 
 ## The objective of the Coding Skills Foundation is to facilitate the recognition of achievement of coding skills achieved by persons outside the formal education and training system.
