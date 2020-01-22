@@ -15,18 +15,18 @@ description: Programming with C-Sharp - Intermediate
 
 #### To achieve this badge the learner must :
 
-- Develop object **oriented programming** with C#
+- Write object **oriented programming** with C#
 
 ## Knowledge :
 
 #### To achieve this badge the learner must know and understand :
  Object Oriented Programming :
 
-- - Classes, Properties, Constructors, Methods
-- - Objects
-- - Method Overrides, Method Overloads
-- - Inheritance
-- - Interfaces
+- Classes, Properties, Constructors, Methods
+- Objects
+- Method Overrides, Method Overloads
+- Inheritance
+- Interfaces
 
 ## Requirements
 
