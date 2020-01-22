@@ -28,7 +28,6 @@ The criteria must contain :
 - Skills (required) - the skills that a learner must demonstrate to achieve the badge
 - Knowledge (required) - the knowledge that a learner must apply to achieve the badge
 - Requirements (required) - A description of the task or activities that the learner must demonstrate
-- Range (optional) - The range of situations that the learner must demonstrate  skill and/or knowledge
 
 ### Contributing to Criteria
 

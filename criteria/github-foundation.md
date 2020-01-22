@@ -16,7 +16,7 @@ description: GitHub - Foundation.
 #### To achieve this badge the learner must :
 
 - Deploy an application to a GitHub remote repository
-- Adding commits to a local git repository
+- Add commits to a local git repository
 - Sync a local git repository to a remote repository on GitHub
 
 ## Knowledge :
