@@ -1,5 +1,5 @@
 ---
-title: CS-001 C-Sharp - Foundation
+title: CS-01 C-Sharp - Foundation
 parent: Criteria
 has_children: false
 nav_order: 1
@@ -9,7 +9,7 @@ description: Programming with C-Sharp - Foundation.
 # Title: Programming with C-Sharp
 ## Level: Foundation
 ## Version: V 1.0
-## Code: CS-001
+## Code: CS-01
 
 ## Skills :
 

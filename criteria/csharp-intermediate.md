@@ -1,5 +1,5 @@
 ---
-title: CS-002 C-Sharp - Intermediate
+title: CS-02 C-Sharp - Intermediate
 parent: Criteria
 has_children: false
 nav_order: 2
@@ -9,7 +9,7 @@ description: Programming with C-Sharp - Intermediate
 # Title: Programming with C-Sharp
 ## Level: Intermediate
 ## Version: V 1.0
-## Code: CS-002
+## Code: CS-02
 
 ## Skills :
 

@@ -1,5 +1,5 @@
 ---
-title: CS-003 C-Sharp - Advanced
+title: CS-03 C-Sharp - Advanced
 parent: Criteria
 has_children: false
 nav_order: 3
@@ -9,7 +9,7 @@ description: Programming with C-Sharp - Advanced
 # Title: Programming with C-Sharp
 ## Level: Intermediate
 ## Version: V 1.0
-## Code: CS-003
+## Code: CS-03
 
 ## Skills :
 
