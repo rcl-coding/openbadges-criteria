@@ -2,7 +2,7 @@
 title: GT-01 GitHub - Foundation
 parent: Criteria
 has_children: false
-nav_order: 1
+nav_order: 4
 description: GitHub - Foundation.
 ---
 
@@ -15,14 +15,15 @@ description: GitHub - Foundation.
 
 #### To achieve this badge the learner must :
 
-- Deploy an application to GitHub
+- Deploy an application to a GitHub remote repository
 - Adding commits to a local git repository
 - Sync a local git repository to a remote repository on GitHub
 
 ## Knowledge :
 
 #### To achieve this badge the learner must know and understand :
-- How to deploy an application to GitHub
+
+- How to deploy an application to a remote GitHub repository
 - What are .gitnore files
 - What is a README.md file
 - What is a LICENCE file
@@ -32,6 +33,7 @@ description: GitHub - Foundation.
 ## Requirements
 
 #### To achieve this badge the learner must:
+
 - Deploy at least one application to GitHub.
 - The application should contain .gitnore files, READ.ME file and LICENSE file.
 - Create at least three commits and syncs to the remote repository on GitHub
