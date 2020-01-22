@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Criteria
-nav_order: 2
 has_children: true
---- 2
+nav_order: 2
+description: Coding Skills Foundation Open Badges Criteria
+--- 

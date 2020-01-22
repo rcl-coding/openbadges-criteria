@@ -1,8 +1,9 @@
 ---
-layout: default
-title: CS-001 CSharp Foundation
+title: CS-001 Programming with C-Sharp
 parent: Criteria
+has_children: false
 nav_order: 1
+description: Programming with C-Sharp - Foundation.
 ---
 
 # Title: Programming with C-Sharp
