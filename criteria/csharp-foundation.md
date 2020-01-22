@@ -27,4 +27,4 @@ description: Programming with C-Sharp - Foundation.
 ## Requirements
 
 #### To achieve this badge the learner must create:
-- At least three (3) C# .NET Standard console applications demonstrating all the skill and knowledge requirements identified above
+- At least three (3) C# .NET Standard console applications. Collectively, the projects should covers all the skills and knowledge identified above.
